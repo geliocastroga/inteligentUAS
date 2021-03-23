@@ -1,0 +1,9 @@
+.groups-head{
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 3px double #2a25ba;
+    -webkit-box-shadow: 2px 2px 1px -1px rgba(0,0,0,0.78);
+-moz-box-shadow: 2px 2px 1px -1px rgba(0,0,0,0.78);
+box-shadow: 2px 2px 1px -1px rgba(0,0,0,0.78);
+}
